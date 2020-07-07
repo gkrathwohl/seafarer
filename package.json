@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "double-ended-queue": "^2.1.0-0",
-    "npm": "^6.9.0",
+    "npm": "^6.14.6",
     "simplify-js": "^1.2.3"
   }
 }
